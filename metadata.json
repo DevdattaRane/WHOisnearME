@@ -1,0 +1,6 @@
+{
+  "name": "WHOisnearME",
+  "description": "Offline peer-to-peer proximity radar that locates nearby friends running WHOisnearME via Bluetooth Low Energy beacons and device identifiers, with local on-device storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

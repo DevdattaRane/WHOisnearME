@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WHOisnearME</string>
+    <string name="nav_radar">Radar</string>
+    <string name="nav_friends">Friends</string>
+    <string name="nav_my_device">My Device</string>
+    <string name="nav_history">History</string>
+    <string name="radar_title">Proximity Radar</string>
+    <string name="friends_title">Saved Friends</string>
+    <string name="my_device_title">My Device Beacon</string>
+    <string name="history_title">Sightings &amp; Settings</string>
+    <string name="action_scan_start">Start Scan</string>
+    <string name="action_scan_stop">Stop Scan</string>
+    <string name="action_broadcast">Broadcast Presence</string>
+    <string name="action_add_friend">Add Friend</string>
+    <string name="action_grant_permissions">Grant Nearby Permissions</string>
+    <string name="action_enable_bluetooth">Turn On Bluetooth</string>
+    <string name="empty_friends_title">No saved friends yet</string>
+    <string name="empty_friends_subtitle">Add a friend using their WHOisnearME Beacon ID or Bluetooth MAC address to detect when they are close by.</string>
+    <string name="empty_radar_title">No friends in range</string>
+    <string name="empty_radar_subtitle">Keep scanning active while your friends run WHOisnearME nearby with Broadcast enabled.</string>
+    <string name="share_beacon_chooser">Share my WHOisnearME Beacon ID</string>
+</resources>
